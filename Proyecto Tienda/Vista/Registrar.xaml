@@ -1,0 +1,68 @@
+﻿<Page x:Class="Proyecto_Tienda.Vista.Registrar"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Proyecto_Tienda.Vista"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300" Background="Transparent"
+      Title="Registrar">
+    <Grid Background="Black">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"></RowDefinition>
+            <RowDefinition Height="140"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0">
+            <Label HorizontalAlignment="Center" Foreground="White">DATOS DEL  PRODUCTO</Label>
+        </StackPanel>
+        <Grid Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="auto"></RowDefinition>
+                <RowDefinition Height="auto"></RowDefinition>
+                <RowDefinition Height="auto"></RowDefinition>
+                <RowDefinition Height="auto"></RowDefinition>
+                <RowDefinition Height="auto"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <Label Grid.Column="0" Grid.Row="0" Foreground="White">Nombre</Label>
+            <Label Grid.Column="0" Grid.Row="1" Foreground="white">Marca</Label>
+            <Label Grid.Column="0" Grid.Row="2" Foreground="white"> Modelo</Label>
+            <Label Grid.Column="0" Grid.Row="3" Foreground="White">Tipo</Label>
+            <Label Grid.Column="0" Grid.Row="4" Foreground="white">Fecha</Label>
+
+            <TextBox Grid.Column="1" Grid.Row="0"></TextBox>
+            <TextBox Grid.Column="1" Grid.Row="1"></TextBox>
+            <TextBox Grid.Column="1" Grid.Row="2"></TextBox>
+            <ComboBox Grid.Column="1" Grid.Row="3" >
+                <ComboBoxItem x:Name="case" Selected="case_Selected"  >Case</ComboBoxItem>
+                <ComboBoxItem x:Name="DiscoDuro" Selected="DiscoDuro_Selected" >Disco Duro</ComboBoxItem>
+                <ComboBoxItem x:Name="FuentePoder"> Fuente Poder</ComboBoxItem>
+                <ComboBoxItem x:Name="Lector"> Lector DVD/CD</ComboBoxItem>
+                <ComboBoxItem x:Name="MemoriaRam"> Memoria RAM</ComboBoxItem>
+                <ComboBoxItem x:Name="Mouse"> Mouse</ComboBoxItem>
+                <ComboBoxItem x:Name="Pantalla"> Pantalla</ComboBoxItem>
+                <ComboBoxItem x:Name="PlacaMadre"> Placa Madre</ComboBoxItem>
+                <ComboBoxItem x:Name="Procesador"> Procesador</ComboBoxItem>
+                <ComboBoxItem x:Name="TarjetaSonido"> Tarjeta Sonido</ComboBoxItem>
+                <ComboBoxItem x:Name="TarjetaVideo"> Tarjeta Video</ComboBoxItem>
+                <ComboBoxItem x:Name="Teclado"> Teclado</ComboBoxItem>
+            </ComboBox>
+            <DatePicker Grid.Column="1" Grid.Row="4"></DatePicker>
+
+            <Button Grid.Column="2" Grid.Row="0">Guardar</Button>
+            <Button Grid.Column="2" Grid.Row="1">Moficar</Button>
+            <Button Grid.Column="2" Grid.Row="2">Eliminar</Button>
+            <Button Grid.Column="2" Grid.Row="3">Regresar</Button>
+            
+        </Grid>
+        <DataGrid Grid.Row="3" Margin="5">
+            
+        </DataGrid>
+    </Grid>
+</Page>

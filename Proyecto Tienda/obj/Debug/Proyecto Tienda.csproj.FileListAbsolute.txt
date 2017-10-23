@@ -1,0 +1,39 @@
+c:\users\alumno\documents\visual studio 2015\Projects\Proyecto Tienda\Proyecto Tienda\bin\Debug\Proyecto Tienda.exe.config
+c:\users\alumno\documents\visual studio 2015\Projects\Proyecto Tienda\Proyecto Tienda\bin\Debug\Proyecto Tienda.exe
+c:\users\alumno\documents\visual studio 2015\Projects\Proyecto Tienda\Proyecto Tienda\bin\Debug\Proyecto Tienda.pdb
+c:\users\alumno\documents\visual studio 2015\Projects\Proyecto Tienda\Proyecto Tienda\obj\Debug\Proyecto Tienda.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2015\Projects\Proyecto Tienda\Proyecto Tienda\obj\Debug\MainWindow.g.cs
+c:\users\alumno\documents\visual studio 2015\Projects\Proyecto Tienda\Proyecto Tienda\obj\Debug\App.g.cs
+c:\users\alumno\documents\visual studio 2015\Projects\Proyecto Tienda\Proyecto Tienda\obj\Debug\Proyecto Tienda_MarkupCompile.cache
+c:\users\alumno\documents\visual studio 2015\Projects\Proyecto Tienda\Proyecto Tienda\obj\Debug\Proyecto Tienda_MarkupCompile.lref
+c:\users\alumno\documents\visual studio 2015\Projects\Proyecto Tienda\Proyecto Tienda\obj\Debug\MainWindow.baml
+c:\users\alumno\documents\visual studio 2015\Projects\Proyecto Tienda\Proyecto Tienda\obj\Debug\Proyecto Tienda.g.resources
+c:\users\alumno\documents\visual studio 2015\Projects\Proyecto Tienda\Proyecto Tienda\obj\Debug\Proyecto_Tienda.Properties.Resources.resources
+c:\users\alumno\documents\visual studio 2015\Projects\Proyecto Tienda\Proyecto Tienda\obj\Debug\Proyecto Tienda.csproj.GenerateResource.Cache
+c:\users\alumno\documents\visual studio 2015\Projects\Proyecto Tienda\Proyecto Tienda\obj\Debug\Proyecto Tienda.exe
+c:\users\alumno\documents\visual studio 2015\Projects\Proyecto Tienda\Proyecto Tienda\obj\Debug\Proyecto Tienda.pdb
+c:\users\alumno\documents\visual studio 2015\Projects\Proyecto Tienda\Proyecto Tienda\obj\Debug\Vista\Registrar.g.cs
+c:\users\alumno\documents\visual studio 2015\Projects\Proyecto Tienda\Proyecto Tienda\obj\Debug\Vista\Registrar.baml
+C:\Users\alumno\Documents\Visual Studio 2015\Projects\proyecto-tienda\Proyecto Tienda\Proyecto Tienda\bin\Debug\Proyecto Tienda.exe.config
+C:\Users\alumno\Documents\Visual Studio 2015\Projects\proyecto-tienda\Proyecto Tienda\Proyecto Tienda\obj\Debug\Proyecto Tienda.exe
+C:\Users\alumno\Documents\Visual Studio 2015\Projects\proyecto-tienda\Proyecto Tienda\Proyecto Tienda\obj\Debug\Proyecto Tienda.pdb
+C:\Users\alumno\Documents\Visual Studio 2015\Projects\proyecto-tienda\Proyecto Tienda\Proyecto Tienda\obj\Debug\Proyecto Tienda.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Documents\Visual Studio 2015\Projects\proyecto-tienda\Proyecto Tienda\Proyecto Tienda\obj\Debug\MainWindow.g.cs
+C:\Users\alumno\Documents\Visual Studio 2015\Projects\proyecto-tienda\Proyecto Tienda\Proyecto Tienda\obj\Debug\Vista\Registrar.g.cs
+C:\Users\alumno\Documents\Visual Studio 2015\Projects\proyecto-tienda\Proyecto Tienda\Proyecto Tienda\obj\Debug\App.g.cs
+C:\Users\alumno\Documents\Visual Studio 2015\Projects\proyecto-tienda\Proyecto Tienda\Proyecto Tienda\obj\Debug\Proyecto Tienda_Content.g.cs
+C:\Users\alumno\Documents\Visual Studio 2015\Projects\proyecto-tienda\Proyecto Tienda\Proyecto Tienda\obj\Debug\Proyecto Tienda_MarkupCompile.cache
+C:\Users\alumno\Documents\Visual Studio 2015\Projects\proyecto-tienda\Proyecto Tienda\Proyecto Tienda\obj\Debug\Proyecto Tienda_MarkupCompile.lref
+C:\Users\alumno\Documents\Visual Studio 2015\Projects\proyecto-tienda\Proyecto Tienda\Proyecto Tienda\bin\Debug\TiendaBD\Tienda.mdf
+C:\Users\alumno\Documents\Visual Studio 2015\Projects\proyecto-tienda\Proyecto Tienda\Proyecto Tienda\bin\Debug\TiendaBD\Tienda_log.ldf
+C:\Users\alumno\Documents\Visual Studio 2015\Projects\proyecto-tienda\Proyecto Tienda\Proyecto Tienda\bin\Debug\Proyecto Tienda.exe
+C:\Users\alumno\Documents\Visual Studio 2015\Projects\proyecto-tienda\Proyecto Tienda\Proyecto Tienda\bin\Debug\Proyecto Tienda.pdb
+C:\Users\alumno\Documents\Visual Studio 2015\Projects\proyecto-tienda\Proyecto Tienda\Proyecto Tienda\obj\Debug\MainWindow.baml
+C:\Users\alumno\Documents\Visual Studio 2015\Projects\proyecto-tienda\Proyecto Tienda\Proyecto Tienda\obj\Debug\Vista\Registrar.baml
+C:\Users\alumno\Documents\Visual Studio 2015\Projects\proyecto-tienda\Proyecto Tienda\Proyecto Tienda\obj\Debug\Proyecto Tienda.g.resources
+C:\Users\alumno\Documents\Visual Studio 2015\Projects\proyecto-tienda\Proyecto Tienda\Proyecto Tienda\obj\Debug\Proyecto_Tienda.Properties.Resources.resources
+C:\Users\alumno\Documents\Visual Studio 2015\Projects\proyecto-tienda\Proyecto Tienda\Proyecto Tienda\obj\Debug\Proyecto Tienda.csproj.GenerateResource.Cache
+C:\Users\alumno\Documents\Visual Studio 2015\Projects\proyecto-tienda\Proyecto Tienda\Proyecto Tienda\obj\Debug\Vista\ventanas\Caja.g.cs
+C:\Users\alumno\Documents\Visual Studio 2015\Projects\proyecto-tienda\Proyecto Tienda\Proyecto Tienda\obj\Debug\Vista\ventanas\Caja.baml
+C:\Users\alumno\Documents\Visual Studio 2015\Projects\proyecto-tienda\Proyecto Tienda\Proyecto Tienda\obj\Debug\Vista\ventanas\Disco.g.cs
+C:\Users\alumno\Documents\Visual Studio 2015\Projects\proyecto-tienda\Proyecto Tienda\Proyecto Tienda\obj\Debug\Vista\ventanas\Disco.baml
